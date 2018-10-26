@@ -1,0 +1,356 @@
+AAK AAK ,SEK,SE0011337708,  Consumer Goods  3500  
+ÅF B  AF B  ,SEK,SE0005999836,  Industrials 2700  
+Ahlsell AHSL  ,SEK,SE0009155005,  Industrials 2300  
+Alfa Laval  ALFA  ,SEK,SE0000695876,  Industrials 2700  
+Autoliv SDB ALIV SDB  ,SEK,SE0000382335,  Consumer Goods  3300  
+Arion Banki SDB ARION SDB ,SEK,SE0010413567,  Financials  8300  
+Arjo B  ARJO B  ,SEK,SE0010468116,  Health Care 4500  
+ASSA ABLOY B  ASSA B  ,SEK,SE0007100581,  Industrials 2300  
+Atlas Copco A ATCO A  ,SEK,SE0011166610,  Industrials 2700  
+Atlas Copco B ATCO B  ,SEK,SE0011166628,  Industrials 2700  
+Atrium Ljungberg B  ATRLJ B ,SEK,SE0000191827,  Financials  8600  
+Attendo ATT ,SEK,SE0007666110,  Health Care 4500  
+Axfood  AXFO  ,SEK,SE0006993770,  Consumer Services 5300  
+Axis  AXIS  ,SEK,SE0000672354,  Technology  9500  
+Avanza Bank Holding AZA ,SEK,SE0000170110,  Financials  8700  
+Fast. Balder B  BALD B  ,SEK,SE0000455057,  Financials  8600  
+Betsson B BETS B  ,SEK,SE0011089259,  Consumer Services 5700  
+BillerudKorsnäs BILL  ,SEK,SE0000862997,  Basic Materials 1700  
+Boliden BOL ,SEK,SE0011088665,  Basic Materials 1700  
+Bonava A  BONAV A ,SEK,SE0008091573,  Financials  8600  
+Bonava B  BONAV B ,SEK,SE0008091581,  Financials  8600  
+Bravida Holding BRAV  ,SEK,SE0007491303,  Industrials 2700  
+Castellum CAST  ,SEK,SE0000379190,  Financials  8600  
+Collector COLL  ,SEK,SE0007048020,  Financials  8700  
+Com Hem Holding COMH  ,SEK,SE0005999778,  Telecommunications  6500  
+Dometic Group DOM ,SEK,SE0007691613,  Consumer Goods  3700  
+Elekta B  EKTA B  ,SEK,SE0000163628,  Health Care 4500  
+Electrolux A  ELUX A  ,SEK,SE0000103806,  Consumer Goods  3700  
+Electrolux B  ELUX B  ,SEK,SE0000103814,  Consumer Goods  3700  
+Epiroc A  EPI A ,SEK,SE0011166933,  Industrials 2700  
+Epiroc B  EPI B ,SEK,SE0011166941,  Industrials 2700  
+Ericsson A  ERIC A  ,SEK,SE0000108649,  Technology  9500  
+Ericsson B  ERIC B  ,SEK,SE0000108656,  Technology  9500  
+Essity A  ESSITY A  ,SEK,SE0009922156,  Consumer Goods  3700  
+Essity B  ESSITY B  ,SEK,SE0009922164,  Consumer Goods  3700  
+Evolution Gaming Group  EVO ,SEK,SE0006826046,  Consumer Services 5700  
+Fabege  FABG  ,SEK,SE0011166974,  Financials  8600  
+Fingerprint Cards B FING B  ,SEK,SE0008374250,  Industrials 2700  
+Getinge B GETI B  ,SEK,SE0000202624,  Health Care 4500  
+Hemfosa Fastigheter HEMF  ,SEK,SE0007126115,  Financials  8600  
+Hemfosa Fastigheter Pref  HEMF PREF ,SEK,SE0007126123,  Financials  8600  
+Hexagon B HEXA B  ,SEK,SE0000103699,  Technology  9500  
+Hennes & Mauritz B  HM B  ,SEK,SE0000106270,  Consumer Services 5300  
+Holmen A  HOLM A  ,SEK,SE0011090000,  Basic Materials 1700  
+Holmen B  HOLM B  ,SEK,SE0011090018,  Basic Materials 1700  
+HEXPOL B  HPOL B  ,SEK,SE0007074281,  Basic Materials 1300  
+Hufvudstaden A  HUFV A  ,SEK,SE0000170375,  Financials  8600  
+Hufvudstaden C  HUFV C  ,SEK,SE0000170383,  Financials  8600  
+Husqvarna A HUSQ A  ,SEK,SE0001662222,  Consumer Goods  3700  
+Husqvarna B HUSQ B  ,SEK,SE0001662230,  Consumer Goods  3700  
+ICA Gruppen ICA ,SEK,SE0000652216,  Consumer Services 5300  
+Indutrade INDT  ,SEK,SE0001515552,  Industrials 2700  
+Industrivärden A  INDU A  ,SEK,SE0000190126,  Financials  8700  
+Industrivärden C  INDU C  ,SEK,SE0000107203,  Financials  8700  
+Intrum  INTRUM  ,SEK,SE0000936478,  Financials  8700  
+Investor A  INVE A  ,SEK,SE0000107401,  Financials  8700  
+Investor B  INVE B  ,SEK,SE0000107419,  Financials  8700  
+JM  JM  ,SEK,SE0000806994,  Financials  8600  
+Kindred Group KIND SDB  ,SEK,SE0007871645,  Consumer Services 5700  
+Kinnevik A  KINV A  ,SEK,SE0008373898,  Financials  8700  
+Kinnevik B  KINV B  ,SEK,SE0008373906,  Financials  8700  
+Kungsleden  KLED  ,SEK,SE0000549412,  Financials  8600  
+Klövern A KLOV A  ,SEK,SE0006593901,  Financials  8600  
+Klövern B KLOV B  ,SEK,SE0006593919,  Financials  8600  
+Klövern pref  KLOV PREF ,SEK,SE0006593927,  Financials  8600  
+Latour B  LATO B  ,SEK,SE0010100958,  Financials  8700  
+LeoVegas  LEO ,SEK,SE0008091904,  Consumer Services 5700  
+Lifco B LIFCO B ,SEK,SE0006370730,  Industrials 2700  
+Loomis B  LOOM B  ,SEK,SE0002683557,  Industrials 2700  
+Lundbergföretagen B LUND B  ,SEK,SE0000108847,  Financials  8700  
+Lundin Petroleum  LUPE  ,SEK,SE0000825820,  Oil & Gas 0500  
+Millicom Int. Cellular SDB  MIC SDB ,SEK,SE0001174970,  Telecommunications  6500  
+Modern Times Group A  MTG A ,SEK,SE0000412363,  Consumer Services 5500  
+Modern Times Group B  MTG B ,SEK,SE0000412371,  Consumer Services 5500  
+Munters Group MTRS  ,SEK,SE0009806607,  Industrials 2700  
+NCC A NCC A ,SEK,SE0000118952,  Industrials 2300  
+NCC B NCC B ,SEK,SE0000117970,  Industrials 2300  
+NetEnt B  NET B ,SEK,SE0011089200,  Consumer Services 5700  
+NIBE Industrier B NIBE B  ,SEK,SE0008321293,  Industrials 2300  
+Nobia NOBI  ,SEK,SE0000949331,  Consumer Goods  3700  
+Peab B  PEAB B  ,SEK,SE0000106205,  Industrials 2300  
+Pandox B  PNDX B  ,SEK,SE0007100359,  Financials  8600  
+Ratos A RATO A  ,SEK,SE0000191090,  Financials  8700  
+Ratos B RATO B  ,SEK,SE0000111940,  Financials  8700  
+Resurs Holding  RESURS  ,SEK,SE0007665823,  Financials  8300  
+SAAB B  SAAB B  ,SEK,SE0000112385,  Industrials 2700  
+Sagax A SAGA A  ,SEK,SE0004635878,  Financials  8600  
+Sagax B SAGA B  ,SEK,SE0005127818,  Financials  8600  
+Sagax D SAGA D  ,SEK,SE0009161052,  Financials  8600  
+Sagax pref  SAGA PREF ,SEK,SE0001629288,  Financials  8600  
+Sandvik SAND  ,SEK,SE0000667891,  Industrials 2700  
+SCA A SCA A ,SEK,SE0000171886,  Consumer Goods  3700  
+SCA B SCA B ,SEK,SE0000112724,  Consumer Goods  3700  
+SEB A SEB A ,SEK,SE0000148884,  Financials  8300  
+SEB C SEB C ,SEK,SE0000120784,  Financials  8300  
+Securitas B SECU B  ,SEK,SE0000163594,  Industrials 2700  
+Sv. Handelsbanken A SHB A ,SEK,SE0007100599,  Financials  8300  
+Sv. Handelsbanken B SHB B ,SEK,SE0007100607,  Financials  8300  
+Skanska B SKA B ,SEK,SE0000113250,  Industrials 2300  
+SKF A SKF A ,SEK,SE0000108201,  Industrials 2700  
+SKF B SKF B ,SEK,SE0000108227,  Industrials 2700  
+Swedish Orphan Biovitrum  SOBI  ,SEK,SE0000872095,  Health Care 4500  
+SSAB A  SSAB A  ,SEK,SE0000171100,  Basic Materials 1700  
+SSAB B  SSAB B  ,SEK,SE0000120669,  Basic Materials 1700  
+SWECO A SWEC A  ,SEK,SE0000489080,  Industrials 2300  
+SWECO B SWEC B  ,SEK,SE0000489098,  Industrials 2300  
+Swedbank A  SWED A  ,SEK,SE0000242455,  Financials  8300  
+Swedish Match SWMA  ,SEK,SE0000310336,  Consumer Goods  3700  
+Tele2 A TEL2 A  ,SEK,SE0005190220,  Telecommunications  6500  
+Tele2 B TEL2 B  ,SEK,SE0005190238,  Telecommunications  6500  
+Telia Company TELIA ,SEK,SE0000667925,  Telecommunications  6500  
+Thule Group THULE ,SEK,SE0006422390,  Consumer Goods  3700  
+Trelleborg B  TREL B  ,SEK,SE0000114837,  Industrials 2700  
+Veoneer SDB VNE SDB ,SEK,SE0011115963,  Consumer Goods  3300  
+Volvo A VOLV A  ,SEK,SE0000115420,  Industrials 2700  
+Volvo B VOLV B  ,SEK,SE0000115446,  Industrials 2700  
+Wallenstam B  WALL B  ,SEK,SE0007074844,  Financials  8600  
+Wihlborgs Fastigheter WIHL  ,SEK,SE0011205194,  Financials  8600  
+AcadeMedia  ACAD  ,SEK,SE0007897079,  Consumer Services 5300  
+Acando B  ACAN B  ,SEK,SE0000105116,  Technology  9500  
+Addtech B ADDT B  ,SEK,SE0005568136,  Industrials 2700  
+AddLife B ALIF B  ,SEK,SE0007982814,  Health Care 4500  
+Alimak Group  ALIG  ,SEK,SE0007158910,  Industrials 2700  
+Ambea AMBEA ,SEK,SE0009663826,  Health Care 4500  
+Addnode Group B ANOD B  ,SEK,SE0000472268,  Technology  9500  
+AQ Group  AQ  ,SEK,SE0000772956,  Industrials 2700  
+Alligator Bioscience  ATORX ,SEK,SE0000767188,  Health Care 4500  
+Beijer Alma B BEIA B  ,SEK,SE0011090547,  Industrials 2700  
+Beijer Ref B  BEIJ B  ,SEK,SE0011116508,  Industrials 2700  
+Bergman & Beving B  BERG B  ,SEK,SE0000101362,  Industrials 2700  
+Besqab  BESQ  ,SEK,SE0005991411,  Financials  8600  
+Bygghemma Group First BHG ,SEK,SE0010948588,  Consumer Services 5300  
+Bilia A BILI A  ,SEK,SE0009921588,  Consumer Services 5300  
+BioArctic B BIOA B  ,SEK,SE0010323311,  Health Care 4500  
+BioGaia B BIOG B  ,SEK,SE0000470395,  Health Care 4500  
+Biotage BIOT  ,SEK,SE0000454746,  Health Care 4500  
+Byggmax Group BMAX  ,SEK,SE0003303627,  Consumer Services 5300  
+Boozt BOOZT ,SEK,SE0009888738,  Consumer Services 5300  
+Bufab BUFAB ,SEK,SE0005677135,  Industrials 2700  
+Bulten  BULTEN  ,SEK,SE0003849223,  Consumer Goods  3300  
+Bure Equity BURE  ,SEK,SE0000195810,  Financials  8700  
+Calliditas Therapeutics CALTX ,SEK,SE0010441584,  Health Care 4500  
+Camurus CAMX  ,SEK,SE0007692850,  Health Care 4500  
+Capio CAPIO ,SEK,SE0007185681,  Health Care 4500  
+Catella A CAT A ,SEK,SE0000188500,  Financials  8700  
+Catella B CAT B ,SEK,SE0000188518,  Financials  8700  
+Catena  CATE  ,SEK,SE0001664707,  Financials  8600  
+CellaVision CEVI  ,SEK,SE0000683484,  Health Care 4500  
+Cherry B  CHER B  ,SEK,SE0010133256,  Consumer Services 5700  
+Cloetta B CLA B ,SEK,SE0002626861,  Consumer Goods  3500  
+Clas Ohlson B CLAS B  ,SEK,SE0000584948,  Consumer Services 5300  
+CLX Communications  CLX ,SEK,SE0007439112,  Technology  9500  
+Concentric  COIC  ,SEK,SE0003950864,  Industrials 2700  
+Coor Service Management Hold. COOR  ,SEK,SE0007158829,  Industrials 2700  
+Corem Property Group A  CORE A  ,SEK,SE0010714279,  Financials  8600  
+Corem Property Group B  CORE B  ,SEK,SE0010714287,  Financials  8600  
+Corem Property Group Pref CORE PREF ,SEK,SE0010714311,  Financials  8600  
+Creades A CRED A  ,SEK,SE0004390516,  Financials  8700  
+D. Carnegie & Co B  DCAR B  ,SEK,SE0005594728,  Financials  8600  
+Diös Fastigheter  DIOS  ,SEK,SE0001634262,  Financials  8600  
+Duni  DUNI  ,SEK,SE0000616716,  Consumer Goods  3700  
+Dustin Group  DUST  ,SEK,SE0006625471,  Consumer Services 5300  
+Eastnine  EAST  ,SEK,SE0002158568,  Financials  8600  
+Elanders B  ELAN B  ,SEK,SE0000119299,  Industrials 2700  
+Eltel ELTEL ,SEK,SE0006509949,  Industrials 2700  
+Internationella Engelska Skola  ENG ,SEK,SE0008585525,  Consumer Services 5300  
+Fagerhult FAG ,SEK,SE0010048884,  Industrials 2300  
+Ferronordic Machines  FNM ,SEK,SE0005468717,  Industrials 2700  
+Fast Partner  FPAR  ,SEK,SE0011309228,  Financials  8600  
+Fast Partner Pref FPAR PREF ,SEK,SE0011309236,  Financials  8600  
+G5 Entertainment  G5EN  ,SEK,SE0001824004,  Technology  9500  
+Garo  GARO  ,SEK,SE0008008262,  Industrials 2700  
+Gränges GRNG  ,SEK,SE0006288015,  Consumer Goods  3300  
+Gunnebo GUNN  ,SEK,SE0000195570,  Industrials 2700  
+Handicare Group HANDI ,SEK,SE0010298109,  Health Care 4500  
+HEBA B  HEBA B  ,SEK,SE0000236515,  Financials  8600  
+HiQ International HIQ ,SEK,SE0011062728,  Technology  9500  
+Haldex  HLDX  ,SEK,SE0000105199,  Consumer Goods  3300  
+Hansa Medical HMED  ,SEK,SE0002148817,  Health Care 4500  
+HMS Networks  HMS ,SEK,SE0009997018,  Technology  9500  
+Hoist Finance HOFI  ,SEK,SE0006887063,  Financials  8700  
+Hexatronic Group  HTRO  ,SEK,SE0002367797,  Technology  9500  
+Humana  HUM ,SEK,SE0008040653,  Health Care 4500  
+I.A.R Systems Group IAR B ,SEK,SE0005851706,  Technology  9500  
+Infant Bacterial TherapeuticsB  IBT B ,SEK,SE0008015259,  Health Care 4500  
+Immunovia IMMNOV  ,SEK,SE0006091997,  Health Care 4500  
+Instalco Intressenter INSTAL  ,SEK,SE0009664253,  Industrials 2700  
+Inwido  INWI  ,SEK,SE0006220018,  Industrials 2300  
+ITAB Shop Concept B ITAB B  ,SEK,SE0008375117,  Industrials 2700  
+Invisio Communications  IVSO  ,SEK,SE0001200015,  Technology  9500  
+KABE Group B  KABE B  ,SEK,SE0000107724,  Consumer Goods  3700  
+KappAhl KAHL  ,SEK,SE0010520981,  Consumer Services 5300  
+Karo Pharma KARO  ,SEK,SE0007464888,  Health Care 4500  
+Knowit  KNOW  ,SEK,SE0000421273,  Technology  9500  
+Lagercrantz Group B LAGR B  ,SEK,SE0007603493,  Industrials 2700  
+Lindab International  LIAB  ,SEK,SE0001852419,  Industrials 2300  
+Magnolia Bostad MAG ,SEK,SE0007074505,  Financials  8600  
+Medicover B MCOV B  ,SEK,SE0009778848,  Health Care 4500  
+Mekonomen MEKO  ,SEK,SE0002110064,  Consumer Goods  3300  
+Momentum Group B  MMGR B  ,SEK,SE0009922305,  Industrials 2700  
+Mr Green & Co MRG ,SEK,SE0010949750,  Consumer Services 5700  
+Midsona A MSON A  ,SEK,SE0000565210,  Consumer Goods  3700  
+Midsona B MSON B  ,SEK,SE0000565228,  Consumer Goods  3700  
+Medivir B MVIR B  ,SEK,SE0000273294,  Health Care 4500  
+Mycronic  MYCR  ,SEK,SE0000375115,  Industrials 2700  
+Net Insight B NETI B  ,SEK,SE0000366098,  Technology  9500  
+New Wave B  NEWA B  ,SEK,SE0000426546,  Consumer Goods  3700  
+Nederman Holding  NMAN  ,SEK,SE0011204510,  Industrials 2300  
+Nobina  NOBINA  ,SEK,SE0007185418,  Industrials 2700  
+Nolato B  NOLA B  ,SEK,SE0000109811,  Industrials 2700  
+NP3 Fastigheter NP3 ,SEK,SE0006342333,  Financials  8600  
+NP3 Fastigheter Pref  NP3 PREF  ,SEK,SE0010820514,  Financials  8600  
+OEM International B OEM B ,SEK,SE0005876968,  Industrials 2700  
+Oncopeptides  ONCO  ,SEK,SE0009414576,  Health Care 4500  
+Oscar Properties Holding  OP  ,SEK,SE0005095601,  Financials  8600  
+Oscar Properties Holding PREF OP PREF ,SEK,SE0006992335,  Financials  8600  
+Oscar Properties Holding PREFB  OP PREFB  ,SEK,SE0008041248,  Financials  8600  
+Opus Group  OPUS  ,SEK,SE0001696683,  Industrials 2700  
+Öresund ORES  ,SEK,SE0008321608,  Financials  8700  
+Orexo ORX ,SEK,SE0000736415,  Health Care 4500  
+Platzer Fastigheter Holding B PLAZ B  ,SEK,SE0004977692,  Financials  8600  
+Probi PROB  ,SEK,SE0001280355,  Health Care 4500  
+BlackPearl Resources SDB  PXXS SDB  ,SEK,SE0002060863,  Oil & Gas 0500  
+Qliro Group QLRO  ,SEK,SE0003652163,  Consumer Services 5300  
+Radisson Hospitality  RADH  ,SEK,SE0001857533,  Consumer Services 5700  
+RaySearch Laboratories B  RAY B ,SEK,SE0000135485,  Health Care 4500  
+Recipharm B RECI B  ,SEK,SE0005757267,  Health Care 4500  
+SAS SAS ,SEK,SE0003366871,  Consumer Services 5700  
+SAS PREF  SAS PREF  ,SEK,SE0005704053,  Consumer Services 5700  
+Scandi Standard SCST  ,SEK,SE0005999760,  Consumer Goods  3500  
+SECTRA B  SECT B  ,SEK,SE0011452234,  Health Care 4500  
+Scandic Hotels Group  SHOT  ,SEK,SE0007640156,  Consumer Services 5700  
+SkiStar B SKIS B  ,SEK,SE0000241614,  Consumer Services 5700  
+Serneke Group B SRNKE B ,SEK,SE0007278841,  Industrials 2300  
+SSM Holding SSM ,SEK,SE0009663511,  Financials  8600  
+Starbreeze A  STAR A  ,SEK,SE0007158928,  Technology  9500  
+Starbreeze B  STAR B  ,SEK,SE0005992831,  Technology  9500  
+Stendörren Fastigheter B  STEF B  ,SEK,SE0006543344,  Financials  8600  
+Svolder A SVOL A  ,SEK,SE0010663302,  Financials  8700  
+Svolder B SVOL B  ,SEK,SE0010663310,  Financials  8700  
+Swedol B  SWOL B  ,SEK,SE0001733841,  Consumer Services 5300  
+Systemair SYSR  ,SEK,SE0002133975,  Industrials 2300  
+Tethys Oil  TETY  ,SEK,SE0011115971,  Oil & Gas 0500  
+TF Bank TFBANK  ,SEK,SE0007331608,  Financials  8300  
+Tobii TOBII ,SEK,SE0002591420,  Technology  9500  
+Traction B  TRAC B  ,SEK,SE0000391716,  Financials  8700  
+Troax Group TROAX ,SEK,SE0006732392,  Industrials 2300  
+VBG GROUP B VBG B ,SEK,SE0000115107,  Consumer Goods  3300  
+Victoria Park A VICP A  ,SEK,SE0002216713,  Financials  8600  
+Victoria Park B VICP B  ,SEK,SE0005932795,  Financials  8600  
+Victoria Park Pref  VICP PREF ,SEK,SE0005250487,  Financials  8600  
+Vitec Software Group B  VIT B ,SEK,SE0007871363,  Technology  9500  
+Vitrolife VITR  ,SEK,SE0011205202,  Health Care 4500  
+Vostok New Ventures VNV SDB ,SEK,SE0007278965,  Financials  8700  
+Volati  VOLO  ,SEK,SE0009143662,  Industrials 2700  
+Volati Pref VOLO PREF ,SEK,SE0009143670,  Industrials 2700  
+Xvivo Perfusion XVIVO ,SEK,SE0004840718,  Health Care 4500  
+Active Biotech  ACTI  ,SEK,SE0001137985,  Health Care 4500  
+Anoto Group ANOT  ,SEK,SE0010415281,  Technology  9500  
+Arise ARISE ,SEK,SE0002095604,  Utilities 7500  
+Actic Group ATIC  ,SEK,SE0009269467,  Consumer Services 5700  
+A3 Allmänna IT- och Telekom.  ATRE  ,SEK,SE0001625534,  Telecommunications  6500  
+B3 Consulting Group B3  ,SEK,SE0008347660,  Technology  9500  
+Bactiguard Holding B  BACTI B ,SEK,SE0005878741,  Health Care 4500  
+Balco Group BALCO ,SEK,SE0010323998,  Industrials 2300  
+BE Group  BEGR  ,SEK,SE0008321921,  Basic Materials 1700  
+Beijer Electronics Group  BELE  ,SEK,SE0000671711,  Industrials 2700  
+BioInvent International BINV  ,SEK,SE0000789711,  Health Care 4500  
+BONESUPPORT HOLDING BONEX ,SEK,SE0009858152,  Health Care 4500  
+Bong  BONG  ,SEK,SE0000396061,  Industrials 2700  
+Björn Borg  BORG  ,SEK,SE0011036821,  Consumer Goods  3700  
+Boule Diagnostics BOUL  ,SEK,SE0011231158,  Health Care 4500  
+Bergs Timber B  BRG B ,SEK,SE0000101297,  Basic Materials 1700  
+Brinova Fastigheter B BRIN B  ,SEK,SE0008347652,  Financials  8600  
+BTS Group B BTS B ,SEK,SE0000805426,  Industrials 2700  
+Cantargia CANTA ,SEK,SE0006371126,  Health Care 4500  
+Christian Berner Tech Trade B CBTT B  ,SEK,SE0006143129,  Industrials 2700  
+Concordia Maritime B  CCOR B  ,SEK,SE0000102824,  Industrials 2700  
+Consilium B CONS B  ,SEK,SE0000236382,  Industrials 2700  
+C-RAD B CRAD B  ,SEK,SE0002016352,  Health Care 4500  
+CTT Systems CTT ,SEK,SE0000418923,  Industrials 2700  
+Dedicare B  DEDI  ,SEK,SE0003909282,  Health Care 4500  
+DORO  DORO  ,SEK,SE0000215493,  Technology  9500  
+Duroc B DURC B  ,SEK,SE0000331266,  Industrials 2700  
+Edgeware  EDGE  ,SEK,SE0009268360,  Technology  9500  
+Electra Gruppen ELEC  ,SEK,SE0001572520,  Consumer Services 5300  
+Elos Medtech B  ELOS B  ,SEK,SE0000120776,  Health Care 4500  
+Empir Group B EMPIR B ,SEK,SE0010769182,  Technology  9500  
+Endomines ENDO  ,SEK,SE0008294334,  Basic Materials 1700  
+Enea  ENEA  ,SEK,SE0009697220,  Technology  9500  
+Eniro ENRO  ,SEK,SE0011256312,  Consumer Services 5500  
+Eniro pref  ENRO PREF ,SEK,SE0004633956,  Consumer Services 5500  
+Eolus Vind B  EOLU B  ,SEK,SE0007075056,  Oil & Gas 0500  
+Episurf B EPIS B  ,SEK,SE0003491562,  Health Care 4500  
+eWork Group EWRK  ,SEK,SE0002402701,  Industrials 2700  
+Feelgood Svenska  FEEL  ,SEK,SE0000381840,  Health Care 4500  
+FM Mattsson Mora Group B  FMM B ,SEK,SE0001116021,  Industrials 2300  
+FormPipe Software FPIP  ,SEK,SE0001338039,  Technology  9500  
+GHP Specialty Care  GHP ,SEK,SE0002579912,  Health Care 4500  
+Havsfrun Investment B HAV B ,SEK,SE0000312043,  Financials  8700  
+ICTA  ICTA  ,SEK,SE0010520155,  Industrials 2700  
+Immunicum IMMU  ,SEK,SE0005003654,  Health Care 4500  
+Image Systems IS  ,SEK,SE0006421871,  Industrials 2700  
+Karolinska Development B  KDEV  ,SEK,SE0002190926,  Health Care 4500  
+Lammhults Design Group B  LAMM B  ,SEK,SE0000386138,  Consumer Goods  3700  
+MedCap  MCAP  ,SEK,SE0009160872,  Health Care 4500  
+Malmbergs Elektriska B  MEAB B  ,SEK,SE0000507659,  Industrials 2700  
+Midway A  MIDW A  ,SEK,SE0000122657,  Financials  8700  
+Midway B  MIDW B  ,SEK,SE0000122673,  Financials  8700  
+Mips  MIPS  ,SEK,SE0009216278,  Consumer Goods  3700  
+Moberg Pharma MOB ,SEK,SE0003613090,  Health Care 4500  
+Moment Group  MOMENT  ,SEK,SE0000680902,  Consumer Services 5700  
+MQ Holding  MQ  ,SEK,SE0003303460,  Consumer Services 5300  
+Micro Systemation B MSAB B  ,SEK,SE0000526626,  Technology  9500  
+MultiQ International  MULQ  ,SEK,SE0000353898,  Technology  9500  
+NAXS  NAXS  ,SEK,SE0001965369,  Financials  8700  
+NCAB Group  NCAB  ,SEK,SE0011167956,  Industrials 2700  
+NGS Group NGS ,SEK,SE0009947708,  Financials  8700  
+Nilörngruppen B NIL B ,SEK,SE0007100342,  Consumer Goods  3700  
+NOTE  NOTE  ,SEK,SE0001161654,  Industrials 2700  
+NOVOTEK B NTEK B  ,SEK,SE0000567752,  Technology  9500  
+Nuevolution NUE ,SEK,SE0007730650,  Health Care 4500  
+NeuroVive Pharmaceutical  NVP ,SEK,SE0002575340,  Health Care 4500  
+Oasmia Pharmaceutical OASM  ,SEK,SE0000722365,  Health Care 4500  
+Odd Molly International ODD ,SEK,SE0002017657,  Consumer Goods  3700  
+Ortivus A ORTI A  ,SEK,SE0000188930,  Health Care 4500  
+Ortivus B ORTI B  ,SEK,SE0000123085,  Health Care 4500  
+Proact IT Group PACT  ,SEK,SE0000412991,  Technology  9500  
+Projektengagemang Sweden B  PENG B  ,SEK,SE0011337666,  Industrials 2700  
+Poolia B  POOL B  ,SEK,SE0000567539,  Industrials 2700  
+Precise Biometrics  PREC  ,SEK,SE0001823303,  Industrials 2700  
+Prevas B  PREV B  ,SEK,SE0000356008,  Technology  9500  
+Pricer B  PRIC B  ,SEK,SE0000233934,  Industrials 2700  
+Profilgruppen B PROF B  ,SEK,SE0000393860,  Basic Materials 1700  
+Railcare Group  RAIL  ,SEK,SE0010441139,  Industrials 2700  
+Rejlers B REJL B  ,SEK,SE0000123671,  Industrials 2700  
+RNB RETAIL AND BRANDS RNBS  ,SEK,SE0005223674,  Consumer Services 5300  
+Rottneros RROS  ,SEK,SE0000112252,  Basic Materials 1700  
+Saniona SANION  ,SEK,SE0005794617,  Health Care 4500  
+Semcon  SEMC  ,SEK,SE0000379497,  Industrials 2700  
+Sensys Gatso Group  SENS  ,SEK,SE0000567729,  Industrials 2700  
+SinterCast  SINT  ,SEK,SE0000950982,  Industrials 2700  
+Softronic B SOF B ,SEK,SE0000323305,  Technology  9500  
+Sportamore  SPOR  ,SEK,SE0004777241,  Consumer Services 5300  
+Strax STRAX ,SEK,SE0008008254,  Consumer Goods  3700  
+Stockwik Förvaltning  STWK  ,SEK,SE0001159344,  Technology  9500  
+Svedbergs B SVED B  ,SEK,SE0000407991,  Industrials 2300  
+Studsvik  SVIK  ,SEK,SE0000653230,  Industrials 2700  
+TradeDoubler  TRAD  ,SEK,SE0001552357,  Consumer Services 5500  
+Trention  TRENT ,SEK,SE0008348767,  Consumer Goods  3300  
+Uniflex B UFLX B  ,SEK,SE0001283607,  Industrials 2700  
+Venue Retail Group B  VRG B ,SEK,SE0000396822,  Consumer Services 5300  
+Viking Supply Ships B VSSAB B ,SEK,SE0010820613,  Industrials 2700  
+Wise Group  WISE  ,SEK,SE0007277876,  Industrials 2700  
+XANO Industri B XANO B  ,SEK,SE0009973449,  Industrials 2700  
+ZetaDisplay ZETA  ,SEK,SE0001105511,  Technology  9500  

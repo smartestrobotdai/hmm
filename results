@@ -1,0 +1,211 @@
+
+
+COMPONENTS = 6 , GaussianHMM, 30% as verify data, random_state = 140 POLICY_DAYS=365
+ERIC-B: 9625
+ERIC-A: 12759
+ELUX-A: 10361
+ELUX-B: 6285
+CAT-B:  9625
+HM-B:   10687
+ICA:    9681
+KLOV-A: 8690
+KLOV-B: 11125
+TEL2-A: 9403
+TEL2-B: 11215
+TELIA:  10426
+VOLV-A: 10056
+VOLV-B: 8563
+SAS:    13791
+SAAB-B: 10418
+SEB:    9526
+mean: 10131
+
+
+no volume:
+ERIC-B: 16426
+ERIC-A: 14169
+ELUX-A: 7507
+ELUX-B: 9080
+CAT-B:  11376
+HM-B:   10848
+ICA:    10518
+KLOV-A: 11446
+KLOV-B: 10395
+TEL2-A: 9268
+TEL2-B: 12456
+TELIA:  10702
+VOLV-A: 8372
+VOLV-B: 10172
+SAS:    15587
+SAAB-B: 8707
+SEB-A:  10000
+
+stats.mean([16426,14169,7507,9080,11376,10848,10518,11446,10395,9268,12456,10702,8372,10172,15587,8707,10000])
+11001.70588235294
+
+stats.stdev([16426,14169,7507,9080,11376,10848,10518,11446,10395,9268,12456,10702,8372,10172,15587,8707,10000])
+2454.99658260215
+
+set filter profit<100% too high profit is not reasonable
+ERIC-B: 16426
+ERIC-A: 14169
+ELUX-A: N/A
+ELUX-B: 9080
+CAT-B:  N/A
+HM-B:   10848
+ICA:    10518
+KLOV-A: 11446
+KLOV-B: 10395
+TEL2-A: 9268
+TEL2-B: 12456
+TELIA:  10702
+VOLV-A: N/A
+VOLV-B: N/A
+SAS:    N/A
+SAAB-B: 8707
+SEB-A:  10000
+
+mean:   11167
+stddev: 2238
+
+
+update HMM every 50 days
+ERIC-B: 19248
+ERIC-A: 18173
+ELUX-A: 8553
+ELUX-B: 9821
+CAT-B:  7620
+HM-B:   10281
+ICA:    9620
+KLOV-A: 9669
+KLOV-B: 9895
+TEL2-A: 9560
+TEL2-B: 10971
+TELIA:  N/A
+VOLV-A: 10589
+VOLV-B: 11112
+SAS:    9037
+SAAB-B: 10240
+SEB-A:  9298
+
+[19248,18173,8553,9821,7620,10281,9620,9669,9895,9560,10971,10589,11112,9037,10240,9298]
+10855
+3193
+
+
+added policy verification. model "full"
+ERIC-B:   9881           
+ use component=8, profit=0.16, verify_profit: 0.10, 0.03 final asset:16723
+ use component=6, profit=0.29, verify_profit: 0.04, 0.23 final asset 9881
+ERIC-A:   18424
+ use component=8, bad choose: profit=0.19, verify:0.06, 0.11. good choise: profit=0.21, verify:0.09, 0.06: final asset:14334
+ use component=6, 0.33, 0.02, 0.09 , final: 17974
+
+
+ELUX-A:   9029
+ c=8, final: 9350, profit = 0.28, 0.23, 0.07
+ c=6, final: 9029, p=0.26, 0.14,0.41
+
+ELUX-B:     9660
+c= 8, 7963, loss after update model
+CAT-B:    9180
+HM-B:     10000
+ICA:     9879
+KLOV-A:  9429
+KLOV-B:  10204
+TEL2-A:  10357
+TEL2-B:  13192
+VOLV-A:  9965
+VOLV-B:  9845
+SAS:     12603
+
+SEB-A:   9854
+
+don't update model during the middle of trade. when I hold a stock, no update model
+verify: 0.15, 0.05
+the profit must be better than the entire stock change.
+
+ERIC-B: 10000
+ERIC-A: 16657
+ELUX-A: 9651.8
+ELUX-B: 10000
+CAT-B:  9754
+HM-B:   10000
+ICA:    10000
+KLOV-A: 10000
+KLOV-B: 10000
+TEL2-A: 10070
+TEL2-B: 10342
+VOLV-A: 10000
+VOLV-B: 10000
+SAS:    10000. (cannot reproduce?)
+SEB-A:  10000
+
+comp=8 verify: 0.15, 0.05
+ERIC-B: 17283
+ERIC-A: 15064                 .  TODO:note: loss>5%, total_profit very low.
+ELUX-A: 8824           .   TODO:very high total profit.
+ELUX-B: 8920
+CAT-B:  10000
+HM-B:   8392
+KLOV-A: 10421
+KLOV-B: 10000
+TEL2-A: 11062
+TEL2-B: 10342
+VOLV-A: 10000
+VOLV-B: 10000
+SAS:    10795
+SEB-A:  9600
+10764.5
+
+[17283,15064  ,8824   ,8920,10000,8392,10421,10000,11062,10342,10000,10000,10795,9600]
+
+
+no volume:
+ERIC-B: 15554
+ERIC-A: 11778
+ELUX-A: 9867
+ELUX-B: 10000
+CAT-B:  9571
+HM-B:   7730
+KLOV-A: 10344
+KLOV-B: 10000
+TEL2-A: 9221
+TEL2-B: 9120
+VOLV-A: 9939
+VOLV-B: 10805
+SAS:    14686
+SEB-A:  9275
+
+
+c=8, weighted MA. TBD
+ERIC-B: 12903
+ERIC-A: 12426
+ELUX-A: 10000
+ELUX-B: 10000
+CAT-B:  10000
+HM-B:   10000
+KLOV-A: 10000
+KLOV-B: 9368
+TEL2-A: 10000
+TEL2-B: 10145
+VOLV-A: 10005
+VOLV-B: 11206
+SAS:    10420  
+SEB-A:  9766     
+
+comments:
+SEB-A: worst policy:
+comb:[[0, 1, 2, 5], [3, 6, 7]], profit_list:[0.292759999999999, 0.2239749999999998, 0.06788999999999978], wavg_asset:11573.966666666662, wavg_price:0.08123731602350985, price_rate_change_list=[0.2719723183391005, 0.10772578890097928, 0.0],asset_whole_timeline:20699.449999999997, price_rate_change_whole_timeline:0.32036316472114135 
+the latest profit was low, total:15%
+latest price change is 0
+
+
+KLOV-B: worst policy:
+comb:[[2, 3], [4, 6]], profit_list:[0.06796199999999963, 0.2744229999999994, 0.22351300000000052], wavg_asset:12145.578333333333, wavg_price:0.08059186602304036, price_rate_change_list=[-0.07104984093319189, 0.21232876712328763, 0.043314500941619594],asset_whole_timeline:17008.239999999987, price_rate_change_whole_timeline:0.4773333333333334 
+
+ERIC-B, best policy
+comb:[[0, 3, 4], [1, 2, 5, 6]], profit_list:[0.003771000000000191, 0.14803599999999983, 0.3506079999999996], wavg_asset:12252.77833333333, wavg_price:0.16726932274971298, price_rate_change_list=[-0.17592093441150047, 0.12429132141299615, 0.3103180760279287],asset_whole_timeline:15780.25999999999, price_rate_change_whole_timeline:-0.15285266457680247
+
+good price momentum
+
