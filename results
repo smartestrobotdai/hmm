@@ -207,5 +207,43 @@ comb:[[2, 3], [4, 6]], profit_list:[0.06796199999999963, 0.2744229999999994, 0.2
 ERIC-B, best policy
 comb:[[0, 3, 4], [1, 2, 5, 6]], profit_list:[0.003771000000000191, 0.14803599999999983, 0.3506079999999996], wavg_asset:12252.77833333333, wavg_price:0.16726932274971298, price_rate_change_list=[-0.17592093441150047, 0.12429132141299615, 0.3103180760279287],asset_whole_timeline:15780.25999999999, price_rate_change_whole_timeline:-0.15285266457680247
 
-good price momentum
+
+c=8, weighted MA. 
+ERIC-B: 13096   wavg_asset:11794.355000000001  price_rate_change_diff_wavg=0.08422597657758502  profit_diff_wavg:0.18175466666666681
+ERIC-A: 14076   wavg_asset:11599.391666666665  price_rate_change_diff_wavg=0.08492031318106308  profit_diff_wavg:0.12194633333333356
+ELUX-A: 10000
+ELUX-B: 10000
+CAT-B:  10000
+HM-B:   10000
+KLOV-A: 10000
+KLOV-B: 10000
+TEL2-A: 10000
+TEL2-B: 9886   buy: day 1177 sell 1252 wavg_asset:12012   price_rate_change_diff_wavg=0.10   profit_diff_wavg:0.05
+VOLV-B: 10000
+SAS:    10000
+SEB-A:  10000
+
+c=6:
+10251
+
+c=8
+10384.878333333336
+
+c=9:
+11447+10160+8916+10336+11275+11019+10078
+10461
+
+c=10:
+10791.9+10995.5+10493+10425
+10676
+
+c=11
+(10259+9940+10237+10380+10922)/5
+10347
+
+c=12
+(11552+10626+11275+9459+11566+11039)/6
+10919
+
+
 
